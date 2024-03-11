@@ -1,5 +1,5 @@
-### I pinky promise I can write in languages other than python
-# I just like python :3
+# I pinky promise I can write in languages other than python
+I just like python... :3
 
 I am a computer engineering / math student graduating from Virginia Tech in 2025  
 Technologies I can use confidentily are   
