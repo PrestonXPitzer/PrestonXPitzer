@@ -1,7 +1,7 @@
 # Meowdy :3
 
 I am a computer engineering / math student graduating from Virginia Tech in 2025  
-I have experience in...
+I have experience in...  
 Python 🐍  
 MATLAB 💩  
 C++/C/C# 🤓  
