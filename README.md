@@ -1,7 +1,7 @@
 # Meowdy :3
 
 I am a computer engineering / math student graduating from Virginia Tech in 2025  
-Technologies I can use confidentily are   
+I have experience in...
 Python 🐍  
 MATLAB 💩  
 C++/C/C# 🤓  
@@ -9,11 +9,6 @@ Java 💩
 HTML/JS 🕸️  
 Verilog HDL and SystemVerilog 💻  
 Bash / Unix 💲  
-Technologies I suck at but I'm trying to learn are  
-Perl 🐫  
-Rust 🦺  
-MAGMA 💩  
-COBOL 🏦  
 
 Always seeking opprotunities and collaberations, feel free to message or email me with such things (unless you're a robot)
 <!--
